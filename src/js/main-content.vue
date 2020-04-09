@@ -4,11 +4,11 @@
         <visie-section/>
         <team-section/>
         <research-section/>
-<!--        <concept-section/>-->
-        <sketch-section/>
+        <concept-section/>
+<!--        <sketch-section/>-->
         <visual-section/>
         <robot-section/>
-        <app-section/>
+<!--        <app-section/>-->
         <video-section/>
     </main>
 </template>

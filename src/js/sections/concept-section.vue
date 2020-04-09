@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <div id="concepting" class="background-secondary-blue">
         <title-card title="Concepting" />
         <div class="container-fluid section">
-            <div class="container h-100 d-flex justify-content-center align-items-center">
+            <div class="container h-100 py-5 d-flex justify-content-center align-items-center">
                 <div class="row">
                     <div class="col-md-12">
                         <p class="mb-3">
@@ -32,7 +32,7 @@
 
         <div class="container-fluid pl-0 section-lg background-primary-blue position-relative">
             <div class="w-10/12 mx-auto h-100 d-flex justify-content-center align-items-center">
-                <div  style="z-index: 5" class="row h-100">
+                <div  style="z-index: 5" class="row">
                     <div class="col-md-4 d-flex align-items-end">
                         <div class="card bg-white rounded-xl">
                             <div class="card-body d-flex flex-column justify-content-center align-items-center">

@@ -1,14 +1,15 @@
 <template>
-    <main role="main">
+    <main class="mt-4" role="main">
         <intro-section/>
         <visie-section/>
         <team-section/>
         <research-section/>
-        <concept-section/>
+<!--        <concept-section/>-->
         <sketch-section/>
         <visual-section/>
         <robot-section/>
         <app-section/>
+        <video-section/>
     </main>
 </template>
 
@@ -22,10 +23,12 @@
     import VisualSection from "./sections/visual-section";
     import PrototypeSection from "./sections/prototype-section";
     import AppSection from "./sections/app-section";
+    import VideoSection from "./sections/video-section";
 
     export default {
         name: "main-content",
         components:{
+            VideoSection,
             AppSection,
             "intro-section": IntroSection,
             "visie-section": VisieSection,

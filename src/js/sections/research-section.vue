@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <div id="research" class="background-secondary-blue">
         <title-card title="Onderzoek" />
         <div class="container-fluid px-0 section position-relative">
-            <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
+            <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center">
                 <div class="row mb-5">
                         <div class="col-md-6">
                             <p>Voor ons onderzoek hebben we gesproken met de

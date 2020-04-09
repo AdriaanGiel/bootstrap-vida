@@ -1,19 +1,16 @@
 <template>
-    <div class="container-fluid pl-0 section">
+    <div id="visualisatie" class="container-fluid pl-0 section background-secondary-blue position-relative">
         <title-card title="Visualisatie" />
-        <div class="container">
+        <div class="w-9/12 mx-auto py-5 ">
             <div class="row">
-                <div class="col-md-6">
-
-                </div>
-                <div class="col-md-6">
-                    <p class="mb-2">
+                <div class="col-md-12 col-lg-6 pl-lg-0 top-content text-xl">
+                    <p class="mb-4">
                         We zijn als eerste begonnen met het schetsen van het
                         protoype in een scenario. Hoe het in het begin in zijn werk zal
                         gaan voor de afwezige student.
                     </p>
 
-                    <p class="mb-2">
+                    <p class="mb-4">
                         De app is een belangrijk aspect van het concept. Hier is dus
                         gekeken naar hoe de gebruiker een band kan krijgen met de
                         app. Dit wordt gedaan door middel van een personalisatie.
@@ -23,7 +20,7 @@
                         gedoe.
                     </p>
 
-                    <p class="mb-2">
+                    <p class="mb-4">
                         De geschetste robots hebben te maken met de waarden en
                         belangen van de opdrachtgever, de doelgroep en de
                         stakeholders. Deze vormen hebben we daarna bij de
@@ -37,13 +34,16 @@
                         3D model voor de robot.
                     </p>
 
+                </div>
 
-
-
-
+                <div class="col-md-12 col-lg-6 d-flex pt-5 justify-content-center top-content position-relative">
+                    <img class="app-concept large shadow-lg d-none d-lg-block position-absolute" :src="`./img/concept_nvcp_Tekengebied 1.png`" alt="App concept">
+                    <img class="app-concept mobile-large shadow-lg d-block d-lg-none" :src="`./img/concept_nvcp_Tekengebied 1.png`" alt="App concept">
                 </div>
             </div>
         </div>
+        <div class="container-fluid background-primary-blue bottom-blue d-none d-lg-block"></div>
+        <div class="container-fluid background-primary-blue bottom-blue mobile position-absolute d-block d-lg-none" style="bottom:0"></div>
     </div>
 </template>
 
@@ -53,6 +53,23 @@
     }
 </script>
 
-<style scoped>
+<style scoped lang="stylus">
+.app-concept
+    top -6.5em
+    width 28.5rem
+    height auto
+    &.large
+        right 0
+@media (orientation: landscape)
+    .mobile-large
+        width 80%
+
+@media (min-width: 320px) and (max-width: 767px)
+    .app-concept
+        width 100%
+
+@media (max-width: 1400px)
+    .large
+        width 95%
 
 </style>

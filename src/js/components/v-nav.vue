@@ -5,16 +5,35 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
+            <ul class="navbar-nav mr-auto text-xl">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
+                    <a class="nav-link" href="#intro">Intro</a>
                 </li>
+
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    <a class="nav-link" href="#team">Het team</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#research">Onderzoek</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#concepting">Concepting</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#visualisatie">Visualisatie</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#prototype">Prototype</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#rosie">Rosie</a>
+                </li>
+
             </ul>
         </div>
     </nav>

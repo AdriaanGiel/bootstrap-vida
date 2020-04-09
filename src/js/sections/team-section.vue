@@ -1,24 +1,24 @@
 <template>
-    <div id="team" class="pl-0 container-fluid background-secondary-blue">
-        <title-card title="VIDA" />
+    <div id="team" class="pl-0 container-fluid bg-white">
+        <title-card title="Team VIDA" />
         <div class="container px-0 h-100 d-flex justify-content-center align-items-end py-5">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <team-member name="Dion Pisas" course="CMGT" rol="Programmeur" />
+                    <team-member img="./img/dion.png" name="Dion Pisas" course="CMGT" rol="Programmeur" />
                 </div>
 
                 <div class="col-md-3 col-sm-6">
-                    <team-member name="Dion Pisas" course="CMGT" rol="Programmeur" />
-                </div>
-
-
-                <div class="col-md-3 col-sm-6">
-                    <team-member name="Dion Pisas" course="CMGT" rol="Programmeur" />
+                    <team-member img="./img/adriaan.png" name="Dion Pisas" course="CMGT" rol="Programmeur" />
                 </div>
 
 
                 <div class="col-md-3 col-sm-6">
-                    <team-member name="Dion Pisas" course="CMGT" rol="Programmeur" />
+                    <team-member img="./img/iris.png" name="Dion Pisas" course="CMGT" rol="Programmeur" />
+                </div>
+
+
+                <div class="col-md-3 col-sm-6">
+                    <team-member img="./img/vanna.png" name="Dion Pisas" course="CMGT" rol="Programmeur" />
                 </div>
 
             </div>

@@ -1,15 +1,15 @@
 <template>
-    <div class="container-fluid section background-primary-blue text-white mt-5">
+    <div id="intro" class="container-fluid section background-primary-blue text-white mt-5 py-5">
         <div class="container h-100  d-flex justify-content-center align-items-center flex-column py-5">
             <div class="row">
-                <div class="col-md-8">
-                    <h2>Hoe kunnen we ervoor zorgen dat de langdurige afwezige
+                <div class="col-md-10 my-16">
+                    <h2 class="text-4xl">Hoe kunnen we ervoor zorgen dat de langdurige afwezige
                         student kan samenwerken en zich goed voelt in een
                         projectteam met behulp van een robot?</h2>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6">
+            <div class="row text-xl">
+                <div class="col-md-6 ">
                     <p class="mb-3">Tijdens het Honours Programma hebben wij gewerkt aan een
                         opdracht over Sociale Robots in het onderwijs die de
                         langdurige afwezige student vervangt. Wij richten ons vooral
@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-md-6">
                     <p class="mb-3">De doelgroep is opgedeeld in twee groepen:
-                    <ol>
+                    <ol class="list-unstyled">
                         <li>1. De landurige afwezige studenten die werken met de app</li>
                         <li>2. De studenten in een projectgroep die werken met de robot</li>
                     </ol>

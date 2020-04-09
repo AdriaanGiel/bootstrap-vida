@@ -1,6 +1,6 @@
 <template>
     <div class="member d-flex flex-column justify-content-center align-items-center">
-        <div class="member-img mb-3" :style="(img) ? `background-img: url('${img}');` : 'background-color: grey;' " ></div>
+        <img class="member-img img-fluid mb-4" :src="img" alt="TeamMember">
         <span class="mb-3">{{ name }}</span>
         <span class="mb-3">{{ course }}</span>
         <span class="mb-3">{{ rol }}</span>

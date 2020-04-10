@@ -10,6 +10,7 @@
         <robot-section/>
 <!--        <app-section/>-->
         <video-section/>
+        <footer-section />
     </main>
 </template>
 
@@ -24,10 +25,12 @@
     import PrototypeSection from "./sections/prototype-section";
     import AppSection from "./sections/app-section";
     import VideoSection from "./sections/video-section";
+    import FooterSection from "./sections/footer-section";
 
     export default {
         name: "main-content",
         components:{
+            FooterSection,
             VideoSection,
             AppSection,
             "intro-section": IntroSection,

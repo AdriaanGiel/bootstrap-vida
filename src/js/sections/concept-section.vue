@@ -150,12 +150,7 @@
                             </div>
 
                             <p class="text-xl">
-                                Wij hebben uiteindelijk gekozen voor het een concept dat zich zowel focust op de interactie als op de non
-                                verbale communicatie. Vanuit de opdrachtgever was er een sterke neiging naar het concept ‘Emotie’.
-                                Vanuit de doegroep dat emee zou gaan samenwerken kwam al gauw naar voren dat in de communicatie
-                                het voor belangrijk is dat het praktisch is. Er mogen geen onderbrekingen in de samenwerking ontstaan.
-                                De doelgroep wilt dat de robot optimaal werkt, maar vinden emotie ook een deel van de samenwerking
-                                en van het menselijk gedrag. Hierom is het belangrijk dat we hier ook rekening mee houden.
+                                Wij hebben uiteindelijk gekozen voor het een concept dat zich zowel focust op de interactie als op de non verbale communicatie. Vanuit de opdrachtgever was er een sterke neiging naar het concept ‘Emotie’. Vanuit de doegroep dat emee zou gaan samenwerken kwam al gauw naar voren dat in de communicatie het voor belangrijk is dat het praktisch is. Er mogen geen onderbrekingen in de samenwerking ontstaan. De doelgroep wilt dat de robot optimaal werkt, maar vinden emotie ook een deel van de samenwerking en van het menselijk gedrag. Hierom is het belangrijk dat we hier ook rekening mee houden.
                             </p>
 
                         </div>

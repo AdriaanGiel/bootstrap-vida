@@ -36,7 +36,7 @@
 
                 </div>
 
-                <div class="col-md-12 col-lg-6 d-flex pt-5 justify-content-center top-content position-relative">
+                <div class="col-md-12 col-lg-6 d-flex pt-5 justify-content-center align-items-start top-content position-relative">
                     <img class="app-concept large shadow-lg d-none d-lg-block position-absolute" :src="`./img/concept_nvcp_Tekengebied 1.png`" alt="App concept">
                     <img class="app-concept mobile-large shadow-lg d-block d-lg-none" :src="`./img/concept_nvcp_Tekengebied 1.png`" alt="App concept">
                 </div>

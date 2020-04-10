@@ -44,7 +44,7 @@
 
                             <p class=" my-2 d-block d-xl-none">De app zorgt voor een stappenplan en maakt het zo simpel mogelijk om te navigeren tussen de verschillende opties. Voor de gebruiker is er ook informatie over de robot die wordt gebruikt om hem/haar te representeren. Transparantie is een kernwoord in de app, zodat de gebruiker weet wat er met de informatie gebeurt die de app nodig heeft om optimaal te kunnen werken. De app wordt een deel van de gebruiker, daarin is delen hoe het werkt ook een belangrijk aspect.</p>
                             <span class="background-secondary-blue py-2 px-3 w-100 text-center rounded">
-                                <a href="#" class="text-xl font-bold">Check de app</a>
+                                <a target="_blank" href="https://xd.adobe.com/view/5801f9e4-b6ac-4ece-5d47-e65a34ef860f-2e30/?fullscreen&hints=off" class="text-xl font-bold">Check de app</a>
                             </span>
                         </div>
                     </div>
@@ -52,7 +52,7 @@
                 <div class="col-xl-4 top-content flex-column justify-content-center align-items-center d-none d-xl-flex">
                     <p class="text-xl">De app zorgt voor een stappenplan en maakt het zo simpel mogelijk om te navigeren tussen de verschillende opties. Voor de gebruiker is er ook informatie over de robot die wordt gebruikt om hem/haar te representeren. Transparantie is een kernwoord in de app, zodat de gebruiker weet wat er met de informatie gebeurt die de app nodig heeft om optimaal te kunnen werken. De app wordt een deel van de gebruiker, daarin is delen hoe het werkt ook een belangrijk aspect.</p>
                     <span class="background-secondary-blue py-2 px-3 w-100 text-center rounded">
-                        <a href="#" class="text-xl font-bold">Check de app</a>
+                        <a target="_blank" href="https://xd.adobe.com/view/5801f9e4-b6ac-4ece-5d47-e65a34ef860f-2e30/?fullscreen&hints=off" class="text-xl font-bold">Check de app</a>
                     </span>
                 </div>
             </div>

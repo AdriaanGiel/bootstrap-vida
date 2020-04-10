@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar text-primary-blue navbar-expand-md bg-white fixed-top bg-dark">
         <a class="navbar-brand" href="#">
-            <svg class="fill-current mr-2" width="55px" height="55px" viewBox="0 0 618 409" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <svg class="fill-current mr-2" width="45px" height="45px" viewBox="0 0 618 409" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
                 <title>logo_vida_doorzichtig</title>
                 <desc>Created with Sketch.</desc>

@@ -37,8 +37,8 @@
                         <div class="card w-100 background-secondary-blue z-top r_uitleg">
                             <div class="card-body d-flex flex-column justify-content-center align-items-center bg-gray-300">
                                 <div class="row w-100">
-                                    <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/dollar-sign.png" style="width: 85px; height: 70px;">
+                                    <div class="col-md-4 d-flex flex-row justify-center align-items-center">
+                                        <icon src="img/dollar-sign.png"/>
                                         <div>
                                             <p class="r_title mt-3 mb-1">Betaalbaar</p>
                                             <p class="r_text">Betaalbaarheid, het zal uiteindelijk 100
@@ -47,7 +47,7 @@
                                     </div>
 
                                     <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/privacy.png" style="width: 85px; height: 70px;">
+                                        <icon src="img/privacy.png" />
                                         <div>
                                             <p class="r_title mt-3 mb-1">Privacy</p>
                                             <p class="r_text">Er is data gekoppeld aan een robot. Deze data
@@ -55,7 +55,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/chatbot.png" style="width: 85px; height: 65px;">
+                                        <icon src="img/chatbot.png" size="4"/>
                                         <div>
                                             <p class="r_title mt-3 mb-1">Interactie</p>
                                             <p class="r_text">Het prototype zal de enige interactie bieden,
@@ -65,14 +65,14 @@
                                 </div>
                                 <div class="row w-100">
                                     <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/team.png" style="width: 85px; height: 70px;">
+                                        <icon src="img/team.png"/>
                                         <div>
                                             <p class="r_title mt-3 mb-1">Personalisatie</p>
                                             <p class="r_text">Er kan een band worden ontstaan wanneer de robot gepersonaliseerd is.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/robot-2.png" style="width: 85px; height: 70px;">
+                                        <icon src="img/robot-2.png"/>
                                         <div>
                                             <p class="r_title mt-3 mb-1">Vorm</p>
                                             <p class="r_text">Vorm en uiterlijk is een belangrijk aspect voor iemand die er naar moet kijken.</p>
@@ -80,7 +80,7 @@
                                     </div>
 
                                     <div class="col-md-4 d-flex flex-row">
-                                        <img class="r_logo mt-4 mr-2" src="img/fun.png" style="width: 85px; height: 70px;">
+                                        <icon src="img/fun.png" size="4"/>
                                         <div>
                                             <p class="r_title mt-3 mb-1">Leuk</p>
                                             <p class="r_text">Het moet leuk blijven, de functies zijn momenteel niet heel spannend.</p>
@@ -146,7 +146,7 @@
                     <div class="card-body d-flex flex-column justify-content-center align-items-center">
                         <div class="row w-100">
                             <div class="col-md-4 d-flex flex-row">
-                                <img class="r_logo mt-4 mr-2" src="img/respect.png" style="width: 85px; height: 70px;">
+                                <icon src="img/respect.png" size="4.5"/>
                                 <div>
                                     <p class="r_title mt-3 mb-1">Begrip</p>
                                     <p class="r_text">Werken van een afstand is lastig en voor beide doelgroepen is het belangrijk dat ze open staan voor elkaar.
@@ -155,7 +155,7 @@
                             </div>
 
                             <div class="col-md-4 d-flex flex-row">
-                                <img class="r_logo mt-4 mr-2" src="img/target.png" style="width: 85px; height: 70px;">
+                                <icon src="img/target.png" size="3.5"/>
                                 <div>
                                     <p class="r_title mt-3 mb-1">Emotie</p>
                                     <p class="r_text">De gebruiker voelt zich een minder deel van het team door de afstand
@@ -163,7 +163,7 @@
                                 </div>
                             </div>
                             <div class="col-md-4 d-flex flex-row">
-                                <img class="r_logo mt-4 mr-2" src="img/team.png" style="width: 85px; height: 65px;">
+                                <icon src="img/team.png" size="4.5"/>
                                 <div>
                                     <p class="r_title mt-3 mb-1">Samenwerking</p>
                                     <p class="r_text">Het communicatiemiddel zal ervoor zorgen dat de communicatie door
@@ -181,8 +181,12 @@
 </template>
 
 <script>
+    import icon from "../components/icon";
     export default {
-        name: "research-section"
+        name: "research-section",
+        components:{
+            icon
+        }
     }
 </script>
 
@@ -192,11 +196,7 @@
 }
 
 
-    /*.r_logo{*/
-    /*    border:6px solid #36a9e1;*/
-    /*    border-radius: 50%;*/
 
-    /*}*/
 
     .r_title{
         color:#36a9e1;

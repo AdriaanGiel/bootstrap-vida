@@ -34,165 +34,56 @@
                     </div>
                 <div class="row w-100">
                     <div class="col-md-12 px-0">
-                        <div class="card w-100 background-secondary-blue z-top">
-                            <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <div class="card w-100 background-secondary-blue z-top r_uitleg">
+                            <div class="card-body d-flex flex-column justify-content-center align-items-center bg-gray-300">
                                 <div class="row w-100">
                                     <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
+                                        <img class="r_logo mt-4 mr-2" src="img/dollar-sign.png" style="width: 85px; height: 70px;">
                                         <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
+                                            <p class="r_title mt-3 mb-1">Betaalbaar</p>
+                                            <p class="r_text">Betaalbaarheid, het zal uiteindelijk 100
+                                                euro moeten gaan kosten voor een student.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 d-flex flex-row">
+                                        <img class="r_logo mt-4 mr-2" src="img/privacy.png" style="width: 85px; height: 70px;">
+                                        <div>
+                                            <p class="r_title mt-3 mb-1">Privacy</p>
+                                            <p class="r_text">Er is data gekoppeld aan een robot. Deze data
+                                                zal niet vrij gegeven mogen worden.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
+                                        <img class="r_logo mt-4 mr-2" src="img/chatbot.png" style="width: 85px; height: 65px;">
                                         <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
-                                        <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
+                                            <p class="r_title mt-3 mb-1">Interactie</p>
+                                            <p class="r_text">Het prototype zal de enige interactie bieden,
+                                                tussen de gebruiker en zijn/haar school.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row w-100">
                                     <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
+                                        <img class="r_logo mt-4 mr-2" src="img/team.png" style="width: 85px; height: 70px;">
                                         <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
+                                            <p class="r_title mt-3 mb-1">Personalisatie</p>
+                                            <p class="r_text">Er kan een band worden ontstaan wanneer de robot gepersonaliseerd is.</p>
                                         </div>
                                     </div>
                                     <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
+                                        <img class="r_logo mt-4 mr-2" src="img/robot-2.png" style="width: 85px; height: 70px;">
                                         <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
+                                            <p class="r_title mt-3 mb-1">Vorm</p>
+                                            <p class="r_text">Vorm en uiterlijk is een belangrijk aspect voor iemand die er naar moet kijken.</p>
                                         </div>
                                     </div>
+
                                     <div class="col-md-4 d-flex flex-row">
-                                        <svg class="price" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115.6px"
-                                             height="134px" viewBox="0 0 115.6 134" style="enable-background:new 0 0 115.6 134;" xml:space="preserve">
-                        <defs>
-</defs>
-                                            <g>
-	<circle class="price0" cx="57.8" cy="57.8" r="53.8"/>
-                                                <ellipse class="price1" cx="57.8" cy="127.1" rx="41.1" ry="6.9"/>
-                                                <g>
-		<path class="price2" d="M56.7,19.5c-21.8,0-39.5,17.7-39.5,39.5c0,21.8,17.7,39.5,39.5,39.5c21.8,0,39.5-17.7,39.5-39.5
-			C96.2,37.2,78.5,19.5,56.7,19.5z M56.7,93.2c-18.9,0-34.3-15.4-34.3-34.3s15.4-34.3,34.3-34.3S91,40,91,58.9S75.6,93.2,56.7,93.2z
-			 M58.7,54l-0.7-0.2V42.4c1.7,0.1,2.9,0.6,3.7,1.4c1,1,1.4,2.6,1.4,4.8h7.7c0-4-1.2-7-3.7-9.2c-2.2-1.9-5.3-3-9.2-3.2V32h-2.7v4.2
-			c-3.6,0.2-6.5,1.3-8.7,3.3c-2.5,2.3-3.8,5.3-3.8,9.2c0,3.1,1,5.7,3.1,7.6c1.9,1.7,5,3.3,9.3,4.7v12.6c-1.6-0.2-2.8-0.8-3.7-1.8
-			c-1.1-1.2-1.6-3.1-1.5-5.7h-8.2l0,1.1c0,4.1,1.2,7.2,3.5,9.4c2.3,2.2,5.6,3.4,9.9,3.6v5.8h2.7V80c4-0.2,7.2-1.3,9.7-3.5
-			c2.7-2.3,4-5.5,4-9.5c0-3.4-1-6.1-3-8C66.7,57.1,63.4,55.4,58.7,54z M55.2,52.9c-1.2-0.5-2.2-1-2.9-1.6c-1.3-1-1.9-2.2-1.9-3.6
-			c0-1.7,0.6-3,1.7-3.9c0.8-0.7,1.8-1.1,3.1-1.3L55.2,52.9L55.2,52.9z M61.7,72c-1,0.9-2.3,1.4-3.8,1.5V61.7c1.8,0.6,3.2,1.3,4,2.1
-			c1.1,1,1.6,2.3,1.6,3.8C63.5,69.5,62.9,70.9,61.7,72z"/>
-	</g>
-</g>
-</svg>
+                                        <img class="r_logo mt-4 mr-2" src="img/fun.png" style="width: 85px; height: 70px;">
                                         <div>
-                                            <h4>Betaalbaar</h4>
-                                            <p>Betaalheid, het zal uiteindelijk 100
-                                                euro moeten gaan kosten.</p>
+                                            <p class="r_title mt-3 mb-1">Leuk</p>
+                                            <p class="r_text">Het moet leuk blijven, de functies zijn momenteel niet heel spannend.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -201,18 +92,19 @@
                     </div>
                 </div>
             </div>
-<!--            <div class="container-fluid position-absolute bottom background-primary-blue "></div>-->
-        </div>
+            <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>
 
+        </div>
         <div class="container-fluid px-0  position-relative">
-<!--            <div class="container-fluid position-absolute top background-primary-blue "></div>-->
-            <div class="container h-100">
+            <div class="container h-100 persona-eigenschappen">
                 <div class="row w-100 mr-0 ">
-                        <div class="card w-100 background-secondary-blue z-top persona-box">
+                        <div class="card w-100  z-top persona-box">
                             <div class="card-body p-0 d-flex flex-column justify-content-center align-items-center">
                                 <div class="row w-100">
                                     <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row">
-                                        <div class="persona-img mr-5"></div>
+                                        <div class="persona-img mr-5">
+                                            <img src="img/3.png" style="width: 8em; height: 8em; border-radius:50%;">
+                                        </div>
                                         <div class="d-flex flex-column">
                                             <span>Nick</span>
                                             <span class="mb-3">Sociale angst</span>
@@ -225,8 +117,10 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-md-6 px-4 p-5 d-flex align-items-center flex-row">
-                                        <div class="persona-img mr-5"></div>
+                                    <div class="col-md-6 px-4 p-5 d-flex background-secondary-blue align-items-center flex-row ">
+                                        <div class="persona-img mr-5">
+                                            <img src="img/1.png" style="width: 8em; height: 8em; border-radius:50%;">
+                                        </div>
                                         <div class="d-flex flex-column">
                                             <span>Nick</span>
                                             <span class="mb-3">Sociale angst</span>
@@ -244,7 +138,46 @@
                 </div>
             </div>
         </div>
-    </div>
+
+        <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center">
+        <div class="row w-100">
+            <div class="col-md-12 px-0">
+                <div class="card w-100  z-top r_uitleg">
+                    <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <div class="row w-100">
+                            <div class="col-md-4 d-flex flex-row">
+                                <img class="r_logo mt-4 mr-2" src="img/respect.png" style="width: 85px; height: 70px;">
+                                <div>
+                                    <p class="r_title mt-3 mb-1">Begrip</p>
+                                    <p class="r_text">Werken van een afstand is lastig en voor beide doelgroepen is het belangrijk dat ze open staan voor elkaar.
+                                        De robot moet dit kunnen communiceren.</p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 d-flex flex-row">
+                                <img class="r_logo mt-4 mr-2" src="img/target.png" style="width: 85px; height: 70px;">
+                                <div>
+                                    <p class="r_title mt-3 mb-1">Emotie</p>
+                                    <p class="r_text">De gebruiker voelt zich een minder deel van het team door de afstand
+                                        en zal het daarom moeilijker vinden om aan te geven of ze het ergens wel of niet mee eens zijn.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4 d-flex flex-row">
+                                <img class="r_logo mt-4 mr-2" src="img/team.png" style="width: 85px; height: 65px;">
+                                <div>
+                                    <p class="r_title mt-3 mb-1">Samenwerking</p>
+                                    <p class="r_text">Het communicatiemiddel zal ervoor zorgen dat de communicatie door
+                                        kan gaan en niet voor onderbrekingen zorgen.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+</div>
+
 </template>
 
 <script>
@@ -254,24 +187,37 @@
 </script>
 
 <style scoped lang="stylus">
-.persona-box
-    margin-top 10em
+.persona-box{
+    margin-top: 10em
+}
 
-.persona-img
-    height 9.5em
-    width 9.5em
-    border-radius 50%
-    background-color #1c7430
-.z-top
-    z-index 5
 
-.bottom
-    z-index 1
-    bottom 0
-    height 15em
+    /*.r_logo{*/
+    /*    border:6px solid #36a9e1;*/
+    /*    border-radius: 50%;*/
 
-.top
-    z-index 1
-    top 0
-    height 20em
+    /*}*/
+
+    .r_title{
+        color:#36a9e1;
+        font-weight: bold;
+    }
+
+    .r_text{
+        font-size: 0.8em;
+    }
+
+
+.persona-eigenschappen{
+    z-index: 999999;
+    position: relative;
+    bottom: 100px;
+    left: 15px
+}
+    .r_uitleg{
+        z-index: 999999;
+        position: relative;
+        top: 25px;
+    }
+
 </style>

@@ -41,7 +41,7 @@
                                         <icon src="img/dollar-sign.png"/>
                                         <div>
                                             <p class="r_title ml-2 mt-3 mb-1">Betaalbaar</p>
-                                            <p class="r_text ml-2" ml>Betaalbaarheid, het zal uiteindelijk 100
+                                            <p class="r_text ml-2" >Betaalbaarheid, het zal uiteindelijk 100
                                                 euro moeten gaan kosten voor een student.</p>
                                         </div>
                                     </div>
@@ -64,14 +64,14 @@
                                     </div>
                                 </div>
                                 <div class="row w-100">
-                                    <div class="col-md-4 d-flex flex-row">
+                                    <div class="col-md-4 d-flex flex-row mb-2">
                                         <icon src="img/team.png"/>
                                         <div>
                                             <p class="r_title ml-2 mt-3 mb-1">Personalisatie</p>
                                             <p class="r_text ml-2">Er kan een band worden ontstaan wanneer de robot gepersonaliseerd is.</p>
                                         </div>
                                     </div>
-                                    <div class="col-md-4 d-flex flex-row">
+                                    <div class="col-md-4 d-flex flex-row mb-2">
                                         <icon src="img/robot-2.png"/>
                                         <div>
                                             <p class="r_title ml-2 mt-3 mb-1">Vorm</p>
@@ -79,7 +79,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-md-4 d-flex flex-row">
+                                    <div class="col-md-4 d-flex flex-row mb-2">
                                         <icon src="img/fun.png" size="4"/>
                                         <div>
                                             <p class="r_title ml-2 mt-3 mb-1">Leuk</p>
@@ -144,7 +144,7 @@
             <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>
         </div>
 
-        <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center">
+        <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center ">
         <div class="row w-100">
             <div class="col-md-12 px-0">
                 <div class="card w-100  z-top r_uitleg">
@@ -220,8 +220,8 @@
 .persona-eigenschappen{
     z-index: 999999;
     position: relative;
-    bottom: 9px;
-    left: 15px
+    bottom: 140px;
+    left: 15px;
 }
     .r_uitleg{
         z-index: 999999;

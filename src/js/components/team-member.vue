@@ -1,9 +1,13 @@
 <template>
-    <div class="member d-flex flex-column justify-content-center align-items-center">
+    <div class="member d-flex flex-column justify-content-center align-items-center font-bold">
         <img class="member-img img-fluid mb-4" :src="img" alt="TeamMember">
         <span class="mb-3">{{ name }}</span>
         <span class="mb-3">{{ course }}</span>
-        <span class="mb-3">{{ rol }}</span>
+        <div class="mb-3 d-flex flex-column text-center">
+            <span v-for="(str,key) in rol.split('|')">
+                {{ str }}
+            </span>
+        </div>
     </div>
 </template>
 

@@ -79,7 +79,7 @@
                 <div class="container  pb-0  d-flex flex-column justify-content-center align-items-center">
                     <div class="row w-100">
                         <div class="col-md-12 px-0">
-                            <div class="card w-100 background-secondary-blue z-top border-top-0 ">
+                            <div class="card w-100 background-secondary-blue z-top border-0 ">
                                 <div class="card-body d-flex flex-column justify-content-center align-items-center bg-white ">
                                     <div class="row w-100">
                                         <div class="col-md-4 d-flex flex-row mb-2">

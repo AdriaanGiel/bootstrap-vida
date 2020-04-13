@@ -141,7 +141,7 @@
                         </div>
                 </div>
             </div>
-<!--            <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>-->
+            <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>
         </div>
 
         <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center ">

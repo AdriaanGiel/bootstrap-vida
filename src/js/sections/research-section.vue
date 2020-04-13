@@ -120,7 +120,7 @@
                                 <div class="row w-100">
                                     <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">
                                         <div class="persona-img mr-5">
-                                            <img src="img/2.png" style="width: 8em; height: 8em; border-radius:50%;">
+                                            <img src="img/24.png" style="width: 8em; height: 8em; border-radius:50%;">
                                         </div>
                                         <div class="d-flex flex-column">
                                             <p class="r_title">Nina</p>
@@ -137,10 +137,10 @@
                                     </div>
                                     <div class="col-md-6 px-3 p-4 d-flex flex-column align-items-center flex-lg-row ">
                                         <div class="persona-img mr-5">
-                                            <img src="img/3.png" style="width: 8em; height: 8em; border-radius:50%;">
+                                            <img src="img/2.png" style="width: 8em; height: 8em; border-radius:50%;">
                                         </div>
                                         <div class="d-flex flex-column">
-                                            <p class="r_title">Lotte</p>
+                                            <p class="r_title">Project student</p>
                                            <p class="r_text">
                                                De studenten die met de afwezige student in een projectgroep zitten.
                                                Zij zullen een project moeten doen met de afwezige student en vinden het belangrijk dat de afstand niet in de weg zal zitten van het project.

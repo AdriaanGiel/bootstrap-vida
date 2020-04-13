@@ -4,7 +4,7 @@
         <div class="container-fluid ">
             <div class="container py-5 d-flex justify-content-center align-items-center">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 text-xl">
                         <p class="mb-3">
                             Na het onderzoek zijn wij begonnen met een brainstormsessie
                             om te beslissen welke richting wij op willen gaan wat betreft de

@@ -3,7 +3,7 @@
         <title-card title="Onderzoek" />
         <div class="container-fluid px-0  position-relative">
             <div class="container pt-5 pb-0 h-60 d-flex flex-column justify-content-center align-items-center">
-                <div class="row mb-5">
+                <div class="row mb-5 text-xl">
                         <div class="col-md-6">
                             <p>Voor ons onderzoek hebben we gesproken met de
                                 opdrachtgevers. Daaruit zijn verschillende criteria vanuit de
@@ -36,7 +36,7 @@
         </div>
 
             <div class="container-fluid  px-0 position-relative">
-                <div class="container pt-5 pb-0 h-60 d-flex flex-column justify-content-center align-items-center">
+                <div class="w-10/12 mx-auto pt-5 pb-0 h-60 d-flex flex-column justify-content-center align-items-center">
                     <div class="row w-100">
                         <div class="col-md-12 px-0">
                             <div class="card w-100 background-secondary-blue z-top border-0 ">
@@ -76,7 +76,7 @@
             </div>
 
             <div class="container-fluid background-primary-blue px-0  pb-0">
-                <div class="container  pb-0  d-flex flex-column justify-content-center align-items-center">
+                <div class="w-10/12 mx-auto  pb-0  d-flex flex-column justify-content-center align-items-center">
                     <div class="row w-100">
                         <div class="col-md-12 px-0">
                             <div class="card w-100 background-secondary-blue z-top border-0 ">
@@ -113,58 +113,102 @@
             </div>
 
         <div class="container-fluid background-primary-blue px-0 pt-12 position-relative">
-            <div class="container h-100 persona-eigenschappen">
+            <div class="w-10/12 px-2 mx-auto h-100 persona-eigenschappen">
                 <div class="row w-100 sm:ml-0  ">
-                        <div class="card w-100  z-top persona-box">
-                            <div class="card-body p-0 d-flex  justify-content-center align-items-center border-0">
-                                <div class="row w-100">
-                                    <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">
-                                        <div class="persona-img mr-5">
-                                            <img src="img/24.png" style="width: 8em; height: 8em; border-radius:50%;">
-                                        </div>
-                                        <div class="d-flex flex-column">
-                                            <p class="r_title">Nina</p>
-                                            <p class="r_text">
-                                                De langdurige zieke student. Dit is een student die door sociale angsten niet meer naar de opleiding kan,
-                                                maar wel wilt blijven leren. De student moet minimaal 6 maanden thuis zitten en loopt daarom studievertraging op.
-                                                De student wil makkelijk kunnen communiceren en de situatie voor beide groepen niet lastiger maken.
-                                                De student wilt leren, maar kan het niet.
-                                            </p>
-                                            <p class="r_waarden">
-                                                Waarden: Controle, Duidelijkheid en Eenvoudigheid
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 px-3 p-4 d-flex flex-column align-items-center flex-lg-row ">
-                                        <div class="persona-img mr-5">
-                                            <img src="img/2.png" style="width: 8em; height: 8em; border-radius:50%;">
-                                        </div>
-                                        <div class="d-flex flex-column">
-                                            <p class="r_title">Project student</p>
-                                           <p class="r_text">
-                                               De studenten die met de afwezige student in een projectgroep zitten.
-                                               Zij zullen een project moeten doen met de afwezige student en vinden het belangrijk dat de afstand niet in de weg zal zitten van het project.
-                                               Er wordt van de afwezige student verwacht dat hij/zij iets bijdraagt en meewerkt.
-                                               *De studenten willen geen onderbrekingen in de samenwerking.
-                                           </p>
-                                            <p class="r_waarden">
-                                                Waarden: Participatie, Zelfstandigheid, Nuttigheid en betrokkenheid
-                                            </p>
-                                        </div>
-                                    </div>
+                    <div class="col-md-12 d-flex flex-column flex-md-row">
+                        <div class="card w-100  z-top persona-box rounded-0 shadow-xl border-0">
+                            <div class="card-body px-2 d-flex flex-column flex-md-row py-5 justify-content-center align-items-center border-0">
+                                <div class="persona-img mr-5">
+                                    <img src="img/24.png" style="width: 10em; height: 10em; border-radius:50%;">
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <p class="text-xl text-primary-blue">Nina</p>
+                                    <p class="text-xl">
+                                        De langdurige zieke student. Dit is een student die door sociale angsten niet meer naar de opleiding kan,
+                                        maar wel wilt blijven leren. De student moet minimaal 6 maanden thuis zitten en loopt daarom studievertraging op.
+                                        De student wil makkelijk kunnen communiceren en de situatie voor beide groepen niet lastiger maken.
+                                        De student wilt leren, maar kan het niet.
+                                    </p>
+                                    <p class="text-xl">
+                                        Waarden: Controle, Duidelijkheid en Eenvoudigheid
+                                    </p>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="card w-100 mt-5 mt-md-0  z-top persona-box rounded-0 shadow-xl border-0">
+                            <div class="card-body px-2 d-flex py-5 flex-column flex-md-row justify-content-center align-items-center border-0">
+                                <div class="persona-img mr-5">
+                                    <img src="img/2.png" style="width: 10em; height: 10em; border-radius:50%;">
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <p class="text-xl text-primary-blue">Lotte</p>
+                                    <p class="text-xl">
+                                        De studenten die met de afwezige student in een projectgroep zitten.
+                                        Zij zullen een project moeten doen met de afwezige student en vinden het belangrijk dat de afstand niet in de weg zal zitten van het project.
+                                        Er wordt van de afwezige student verwacht dat hij/zij iets bijdraagt en meewerkt.
+                                        *De studenten willen geen onderbrekingen in de samenwerking.
+                                    </p>
+                                    <p class="text-xl">
+                                        Waarden: Participatie, Zelfstandigheid, Nuttigheid en betrokkenheid
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+<!--                        <div class="card w-100  z-top persona-box rounded-0 shadow-xl border-0">-->
+<!--                            <div class="card-body p-0 d-flex py-5 justify-content-center align-items-center border-0">-->
+<!--                                <div class="row w-100">-->
+<!--                                    <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">-->
+<!--                                        <div class="persona-img mr-5">-->
+<!--                                            <img src="img/24.png" style="width: 10em; height: 10em; border-radius:50%;">-->
+<!--                                        </div>-->
+<!--                                        <div class="d-flex flex-column">-->
+<!--                                        <p class="text-xl text-primary-blue">Nina</p>-->
+<!--                                        <p class="text-xl">-->
+<!--                                            De langdurige zieke student. Dit is een student die door sociale angsten niet meer naar de opleiding kan,-->
+<!--                                            maar wel wilt blijven leren. De student moet minimaal 6 maanden thuis zitten en loopt daarom studievertraging op.-->
+<!--                                            De student wil makkelijk kunnen communiceren en de situatie voor beide groepen niet lastiger maken.-->
+<!--                                            De student wilt leren, maar kan het niet.-->
+<!--                                        </p>-->
+<!--                                        <p class="text-xl">-->
+<!--                                            Waarden: Controle, Duidelijkheid en Eenvoudigheid-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    </div>-->
+<!--                                    <div class="col-md-6 px-3 p-4 d-flex flex-column align-items-center flex-lg-row ">-->
+<!--                                        <div class="persona-img mr-5">-->
+<!--                                            <img src="img/2.png" style="width: 10em; height: 10em; border-radius:50%;">-->
+<!--                                        </div>-->
+<!--                                        <div class="d-flex flex-column">-->
+<!--                                            <p class="text-xl text-primary-blue">Lotte</p>-->
+<!--                                           <p class="text-xl">-->
+<!--                                               De studenten die met de afwezige student in een projectgroep zitten.-->
+<!--                                               Zij zullen een project moeten doen met de afwezige student en vinden het belangrijk dat de afstand niet in de weg zal zitten van het project.-->
+<!--                                               Er wordt van de afwezige student verwacht dat hij/zij iets bijdraagt en meewerkt.-->
+<!--                                               *De studenten willen geen onderbrekingen in de samenwerking.-->
+<!--                                           </p>-->
+<!--                                            <p class="text-xl">-->
+<!--                                                Waarden: Participatie, Zelfstandigheid, Nuttigheid en betrokkenheid-->
+<!--                                            </p>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
                 </div>
             </div>
 <!--            <div class="container-fluid position-absolute  background-primary-blue bottom-blue  "></div>-->
         </div>
 
-        <div class="container-fluid background-primary-blue  position-relative pt-10">
+        <div class="container-fluid  position-relative pl-0">
+            <div class="container-fluid position-absolute background-primary-blue top-blue"></div>
             <div class="container pl-2 py-5 h-100 d-flex flex-column justify-content-center align-items-center position-relative ">
              <div class="row w-100 lg:ml-12  lg:pl-16 sm:ml-0">
                 <div class="col-md-11 px-0">
-                    <div class="card w-100  z-top r_uitleg">
+                    <div class="card mt-5 w-100  z-top r_uitleg rounded-0 shadow-xl border-0">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center ">
                             <div class="row w-100">
                                 <div class="col-md-12 d-flex flex-row pb-4">
@@ -213,6 +257,8 @@
 </script>
 
 <style scoped lang="stylus">
+    .top-blue
+        height 20em
 
     .persona-box{
         top: 2em;

@@ -14,8 +14,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="card w-100 video-card bg-white border-0 shadow-xl">
-                        <div class="card-body pt-1 pb-5 d-flex flex-column justify-content-center align-items-center">
-
+                        <div class="card-body py-1 d-flex flex-column justify-content-center align-items-center">
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/QpVYy3BSgYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>

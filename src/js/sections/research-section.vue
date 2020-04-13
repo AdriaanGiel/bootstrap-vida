@@ -39,8 +39,8 @@
                 <div class="container pt-5 pb-0 h-60 d-flex flex-column justify-content-center align-items-center">
                     <div class="row w-100">
                         <div class="col-md-12 px-0">
-                            <div class="card w-100 background-secondary-blue z-top ">
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center bg-gray-300">
+                            <div class="card w-100 background-secondary-blue z-top border-0 ">
+                                <div class="card-body d-flex flex-column justify-content-center align-items-center bg-white ">
                                     <div class="row w-100">
                                         <div class="col-md-4 d-flex flex-row justify-center align-items-center mb-2">
                                             <icon src="img/dollar-sign.png"/>
@@ -79,8 +79,8 @@
                 <div class="container  pb-0  d-flex flex-column justify-content-center align-items-center">
                     <div class="row w-100">
                         <div class="col-md-12 px-0">
-                            <div class="card w-100 background-secondary-blue z-top ">
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center bg-gray-300">
+                            <div class="card w-100 background-secondary-blue z-top border-top-0 ">
+                                <div class="card-body d-flex flex-column justify-content-center align-items-center bg-white ">
                                     <div class="row w-100">
                                         <div class="col-md-4 d-flex flex-row mb-2">
                                             <icon src="img/team.png"/>
@@ -116,7 +116,7 @@
             <div class="container h-100 persona-eigenschappen">
                 <div class="row w-100 sm:ml-0  ">
                         <div class="card w-100  z-top persona-box">
-                            <div class="card-body p-0 d-flex  justify-content-center align-items-center">
+                            <div class="card-body p-0 d-flex  justify-content-center align-items-center border-right-1">
                                 <div class="row w-100">
                                     <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">
                                         <div class="persona-img mr-5">

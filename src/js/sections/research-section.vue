@@ -112,11 +112,11 @@
                 </div>
             </div>
 
-        <div class="container-fluid background-primary-blue px-0  position-relative">
+        <div class="container-fluid background-primary-blue px-0 pt-12 position-relative">
             <div class="container h-100 persona-eigenschappen">
                 <div class="row w-100 sm:ml-0  ">
                         <div class="card w-100  z-top persona-box">
-                            <div class="card-body p-0 d-flex  justify-content-center align-items-center border-right-1">
+                            <div class="card-body p-0 d-flex  justify-content-center align-items-center border-0">
                                 <div class="row w-100">
                                     <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">
                                         <div class="persona-img mr-5">
@@ -165,7 +165,7 @@
              <div class="row w-100 lg:ml-12  lg:pl-16 sm:ml-0">
                 <div class="col-md-11 px-0">
                     <div class="card w-100  z-top r_uitleg">
-                        <div class="card-body d-flex flex-column justify-content-center align-items-center">
+                        <div class="card-body d-flex flex-column justify-content-center align-items-center ">
                             <div class="row w-100">
                                 <div class="col-md-12 d-flex flex-row pb-4">
                                     <icon src="img/respect.png" size="3.5" class=""/>

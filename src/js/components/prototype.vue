@@ -50,14 +50,14 @@
             mtlLoader.setPath('./blender-files/');
 
             new Promise((resolve) => {
-                mtlLoader.load('robot_without.mtl', (mat) => {
+                mtlLoader.load('full.mtl', (mat) => {
                     resolve(mat);
                 })
             }).then((mat) => {
                 mat.preload();
                 objLoader.setMaterials(mat);
 
-                objLoader.load('robot_without.obj', (object) => {
+                objLoader.load('full.obj', (object) => {
                     this.robot = object;
                     this.scene.add(this.robot);
                 })

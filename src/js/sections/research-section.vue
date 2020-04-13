@@ -99,9 +99,9 @@
             <div class="container h-100 persona-eigenschappen">
                 <div class="row w-100 mr-0 ">
                         <div class="card w-100  z-top persona-box">
-                            <div class="card-body p-0 d-flex flex-column justify-content-center align-items-center">
+                            <div class="card-body p-0 d-flex  justify-content-center align-items-center">
                                 <div class="row w-100">
-                                    <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row">
+                                    <div class="col-md-6 px-3 p-4 d-flex align-items-center flex-row flex-column flex-lg-row">
                                         <div class="persona-img mr-5">
                                             <img src="img/2.png" style="width: 8em; height: 8em; border-radius:50%;">
                                         </div>
@@ -119,7 +119,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-md-6 px-3 p-4 d-flex background-secondary-blue align-items-center flex-row ">
+                                    <div class="col-md-6 px-3 p-4 d-flex flex-column background-secondary-blue align-items-center flex-lg-row ">
                                         <div class="persona-img mr-5">
                                             <img src="img/3.png" style="width: 8em; height: 8em; border-radius:50%;">
                                         </div>
@@ -141,7 +141,7 @@
                         </div>
                 </div>
             </div>
-            <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>
+<!--            <div class="container-fluid position-absolute top background-primary-blue bottom-blue cont1 "></div>-->
         </div>
 
         <div class="container py-5 h-100 d-flex flex-column justify-content-center align-items-center ">
